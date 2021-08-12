@@ -3,7 +3,7 @@ fruit={}
 cart=[]
 while True:
 	print("Press 1 for add fruit details")
-	print("Press 2 for delete employee ")
+	print("Press 2 for delete fruit ")
 	print("Press 3 for change name and rate of fruit")
 	print("Press 4 for search  fruit details")
 	print("Press 5 for display fruit details")
